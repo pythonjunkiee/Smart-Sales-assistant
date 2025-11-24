@@ -1,7 +1,7 @@
-# Smart Sales Assistant (College Project)
+# Smart Sales Assistant 
 
 ## Overview
-A compact end-to-end college project demonstrating:
+A compact end-to-end project:
 - Lead scoring model (Random Forest)
 - Simple retrieval-based chatbot (TF-IDF)
 - Monthly conversions forecasting (Prophet)
